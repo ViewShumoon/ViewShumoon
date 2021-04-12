@@ -23,11 +23,18 @@ Living in China Wuhan.
 ###  
 
 - C, C++
+
+###
+
 - Markdown
+- Git
 - 
 - Learning...
 
-<!---
-Kianakiferi/Kianakiferi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+##  Daily life like to do
+- Gamming
+  - League of legends
+  - Minecraft
+  - Tooooooooooooooo many
+- Watch Animes
+- Read C# documents
