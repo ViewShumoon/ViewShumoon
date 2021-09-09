@@ -1,8 +1,8 @@
 Hello, I am @Kianakiferi from China.
 ## About Me
-I am an entry-level full stack engineer.  
-Like C#.  
-Like open source, want to developing high quality, free and open source applications.  
+I am an entry-level .NET full stack engineer.  
+Love C#.  
+Love open source, want to developing high quality, free and open source applications.  
 Living in China Wuhan.  
 
 ## I can do
@@ -10,24 +10,16 @@ Living in China Wuhan.
 - .NET
 - UWP
 - ASP.NET Web Application
-  - Vue, Bootstrap / HTML5, CSS, JavaScript
+  - Bootstrap
 - Entity Framework / androidx.room
   - MySql, Sqlite, SQL Server
  - Multithread, Asynchronous coding
  
 ###  
-
-- Android, Jetpack
-- Kotlin
-
-###  
-
-- C, C++
-
-###
-
 - Markdown
 - Git
+- Android, Jetpack
+- Kotlin
 - 
 - Learning...
 
