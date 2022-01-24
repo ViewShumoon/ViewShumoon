@@ -7,20 +7,35 @@ Living in China Wuhan.
 
 ## I can do
 
-- .NET
+- .NET (Current version 6.0)
 - UWP
+- Web Application
+  - Vue 3
+  - TypeScript
+  - ASP.NET Core WebApi
+  - Some ohter utils
+    - axious
+    - sass
+    - ...
 - ASP.NET Web Application
-  - Bootstrap
-- Entity Framework / androidx.room
-  - MySql, Sqlite, SQL Server
- - Multithread, Asynchronous coding
+  - Razor
+  - Some other utils
+    - Bootstrap
+    - JQ
+    - ...
+- Entity Framework Core
+- Other
+  - Java
+  - Kotlin
+    - Android
+    - androidx  
+    - Jetpack
+  - Minecraft - Bukkit plugin
+  - Minecraft - Paper plugin
  
 ###  
 - Markdown
 - Git
-- Android, Jetpack
-- Kotlin
-- 
 - Learning...
 
 ##  Daily life like to do
@@ -28,5 +43,5 @@ Living in China Wuhan.
   - League of legends
   - Minecraft
   - Tooooooooooooooo many
-- Watch Animes
+- Watch some animes
 - Read C# documents
