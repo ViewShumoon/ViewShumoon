@@ -10,7 +10,7 @@ Living in China Wuhan.
 - .NET (Current version 6.0)
 - UWP
 - Web Application
-  - Vue 3
+  - Vue 3 with Vite
   - TypeScript
   - ASP.NET Core WebApi
   - Some ohter utils
