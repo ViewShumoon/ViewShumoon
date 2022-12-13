@@ -1,43 +1,40 @@
 Hello, I am @Kianakiferi from China.
-## About Me
-I am an entry-level .NET full stack engineer.  
- Love open source, want to developing high quality, free and open source applications.  
-Living in China Wuhan.  
+## 关于我
+我是一名入门级的 .NET 全栈工程师，热爱开源, 热衷于开发开源免费的高质量应用。
+我居住在中国，湖北省
 
-## I can do
+## 能力
 
-- .NET (Current version 6.0)
-- Web Application
-  - Vue 3 with Vite
-  - ASP.NET Core WebApi
+- .NET 6.0
+- 网络应用
+  - Vue 3 使用 Vite
+  - ASP.NET Core WebApi 应用
   - Blazor
-  - utils
-    - TypeScript
-    - axious
-    - Sass
-    - Bootstrap
-    - ...
+- 工具
+  - TypeScript
+  - axious
+  - Sass
+  - Bootstrap
+  - ...
 - Entity Framework Core
-- Desktop Application
+- 桌面应用
   - UWP
   - Windows App SDK
   - WPF
-- Other
+- 其他
   - Java
   - Kotlin
     - Android
     - androidx  
     - Jetpack
-  - Minecraft - Bukkit plugin
-###  
-- Markdown
-- Git
-- Learning...
+  - Minecraft - Bukkit 插件
+  - Markdown
+  - Git
+- 不断学习中……
 
-##  Daily life like to do
-- Gamming
-  - League of legends
+## 日常生活
+- 游戏
+  - 英雄联盟
   - Minecraft
-  - Tooooooooooooooo many
-- Watch some animes
-- Read C# documents
+  - Cosmoteer
+  - Goose Goose Duck
