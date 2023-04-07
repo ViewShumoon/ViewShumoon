@@ -9,20 +9,18 @@
 - C# 10
 - 网络应用
   - Vue 3 使用 Vite
-  - ASP.NET Core WebApi 应用
-  - Blazor
   - TypeScript
   - Sass, Less
   - axious
-  - ...
-
+  - ASP.NET Core 应用
+  - Blazor
 
 - 桌面应用
-  - UWP
   - Windows App SDK
+  - UWP
   - WPF
+  - Godot Mono
   - AutoHotKey  
-
 
 - 数据
   - Entity Framework Core
@@ -30,11 +28,15 @@
   - SQLite, DB2  
 
 - 其他
-  - Java
   - Kotlin
+  - Java
   - Android
-    - Jetpack, androidx  
-  - Minecraft - Bukkit 插件, Spigot 插件, Bungee Cord 插件
+    - Jetpack
+    - androidx  
+  - Minecraft
+    - Bukkit 插件
+    - Spigot 插件
+    - Bungee Cord 插件
   - Markdown
   - Git
   - StarUML
